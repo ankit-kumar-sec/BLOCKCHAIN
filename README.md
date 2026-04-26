@@ -10,7 +10,7 @@ Blockchain teen mukhya components par kaam karta hai:
 2. **The Chain:** Har block apne pichle block ke hash se juda hota hai (Linking).
 3. **Nodes:** Network ke computers jo transactions ko validate karte hain.
 
-## ✨ Key Features
+##  Key Features
 * **Decentralization:** Kisi ek sanstha (Bank/Govt) ka kabza nahi.
 * **Immutability:** Data ko delete ya change nahi kiya ja sakta.
 * **Transparency:** Transaction history sabke liye khuli hoti hai.
@@ -18,7 +18,7 @@ Blockchain teen mukhya components par kaam karta hai:
 
 ---
 
-## 📊 Blockchain Network Types
+##  Blockchain Network Types
 | Type | Access | Best Use Case |
 | :--- | :--- | :--- |
 | **Public** | Open to all | Bitcoin, Ethereum |
@@ -28,7 +28,7 @@ Blockchain teen mukhya components par kaam karta hai:
 
 ---
 
-## 🚀 Real-World Use Cases (2026)
+##  Real-World Use Cases (2026)
 1. **Finance (DeFi):** Instant cross-border payments aur stablecoins.
 2. **Supply Chain:** Product tracking (Farm to Store) QR code ke zariye.
 3. **Healthcare:** Patients ka apni medical data par pura malikana haq (Ownership).
